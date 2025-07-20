@@ -13,7 +13,7 @@ Automated transaction categorization, budgeting, anomaly detection & more.
 
 ## 🎥 FinWise Demo
 
-<img src="https://drive.google.com/uc?export=view&id=1nGDnFcsMKcZ62h28srNaZYZGicQ3bX8p" alt="FinWise Dashboard Preview" width="700"/>
+<img src="https://drive.google.com/uc?export=view&id=1nGDnFcsMKcZ62h28srNaZYZGicQ3bX8p" alt="FinWise Dashboard Preview" width="920"/>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1CsBZAoFoACL77MENQTTKPxccrddAGiUZ/view" target="_blank">
