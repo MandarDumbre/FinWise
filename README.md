@@ -1,7 +1,3 @@
-Here’s a **visually appealing, markdown-rich `README.md`** for your **⚡ FinWise - Smart Expense Tracking Dashboard**, complete with emoji blocks, section separators, code snippets, image placeholders, and a structured layout that looks great on GitHub or any markdown viewer:
-
----
-
 <div align="center">
 
 # ⚡ **FinWise**
