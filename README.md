@@ -7,10 +7,19 @@
 **A powerful, intelligent financial dashboard built with Streamlit**
 Automated transaction categorization, budgeting, anomaly detection & more.
 
-![FinWise Banner](https://your-image-url.com/banner.png) <!-- Replace with actual image link -->
-
 </div>
 
+---
+
+## 🎥 FinWise Demo
+
+<img src="https://drive.google.com/file/d/1nGDnFcsMKcZ62h28srNaZYZGicQ3bX8p/view" alt="FinWise Dashboard Preview" width="700"/>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1CsBZAoFoACL77MENQTTKPxccrddAGiUZ/view">
+    ▶️ <strong>Watch the Full Video Demo</strong>
+  </a>
+</p>
 ---
 
 🛠️ Built With
