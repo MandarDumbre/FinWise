@@ -1,0 +1,22 @@
+{
+    "Food & Dining": ["restauran", "cafe", "coffee", "eatery", "food", "dinning", "swiggy", "zomato", "kfc", "mcdonalds", "pizza", "burger", "subway", "bar", "pub", "juice", "bakery"],
+    "Groceries": ["supermarket", "grocery", "kirana", "mart", "reliance fresh", "dmart", "bigbasket", "zepto"],
+    "Transportation": ["fuel", "petrol", "diesel", "taxi", "uber", "ola", "bus", "train", "metro", "auto", "travel"],
+    "Shopping": ["store", "shop", "fashion", "clothes", "online purchase", "amazon", "flipkart", "myntra", "zara", "h&m", "retail"],
+    "Utilities": ["electricity", "water bill", "internet", "wifi", "gas", "phone bill", "mobile recharge", "jio", "airtel", "bsnl"],
+    "Healthcare": ["hospital", "pharmacy", "doctor", "clinic", "medical", "medicine", "chemist"],
+    "Entertainment": ["movie", "cinema", "netflix", "prime video", "spotify", "concert", "theatre", "gaming", "bookmyshow"],
+    "Travel": ["flight", "hotel", "airline", "booking.com", "goibibo", "makemytrip", "agoda"],
+    "Education": ["tuition", "school", "college", "course", "books", "fees", "education"],
+    "Home & Garden": ["rent", "maintenance", "hardware", "furniture", "appliances", "home decor", "gardening"],
+    "Personal Care": ["salon", "spa", "gym", "barber", "cosmetics", "pharmacy", "fitness"],
+    "Bills & Finance": ["emi", "loan", "bank charges", "credit card payment", "insurance premium", "tax", "gst", "fee", "interest"],
+    "Investments": ["mutual fund", "stocks", "sip", "investment", "brokerage"],
+    "Subscriptions": ["subscription", "prime", "netflix", "spotify", "hotstar", "youtube premium"],
+    "Gifts & Donations": ["gift", "donation", "charity"],
+    "Sports & Fitness": ["gym", "sports", "fitness", "workout"],
+    "Business": ["business", "office", "client", "vendor"],
+    "Income": ["salary", "refund", "deposit", "interest received", "credit card cashback", "dividend"],
+    "ATM/Cash": ["atm", "cash withdrawal"],
+    "Transfer": ["transfer", "imps", "neft", "rtgs", "upi", "paytm", "google pay", "phonepe"]
+}
