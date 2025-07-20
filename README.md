@@ -13,14 +13,16 @@ Automated transaction categorization, budgeting, anomaly detection & more.
 
 ## 🎥 FinWise Demo
 
-<img src="https://drive.google.com/file/d/1nGDnFcsMKcZ62h28srNaZYZGicQ3bX8p/view" alt="FinWise Dashboard Preview" width="700"/>
+<img src="https://drive.google.com/uc?export=view&id=1nGDnFcsMKcZ62h28srNaZYZGicQ3bX8p" alt="FinWise Dashboard Preview" width="700"/>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CsBZAoFoACL77MENQTTKPxccrddAGiUZ/view">
+  <a href="https://drive.google.com/file/d/1CsBZAoFoACL77MENQTTKPxccrddAGiUZ/view" target="_blank">
     ▶️ <strong>Watch the Full Video Demo</strong>
   </a>
 </p>
+
 ---
+
 
 🛠️ Built With
 <p align="center"> <img alt="Python" src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-App-ff4b4b?logo=streamlit&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?logo=numpy&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-Data_Processing-150458?logo=pandas&logoColor=white" /> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-Interactive_Charts-3f4f75?logo=plotly&logoColor=white" /> <img alt="CSV" src="https://img.shields.io/badge/CSV-Data_Format-yellow?logo=file&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/Custom_CSS-Theming-purple?logo=css3&logoColor=white" /> </p> </div>
